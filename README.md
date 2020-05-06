@@ -1,8 +1,8 @@
-# Rolls-Royce // Databricks
+# Jumbo // Databricks
 
 ## Data Science & Machine Learning: platform overview
 
-The materials in this repository accompany the session delivered on 10th May 2020.
+The materials in this repository accompany the session delivered on 9th May 2020.
 
 
 
